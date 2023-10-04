@@ -1,1 +1,1 @@
-Readme file for this directory
+readme for  0x02-shell_redirections and filters
